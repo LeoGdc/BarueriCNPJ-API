@@ -19,8 +19,7 @@ O objetivo é oferecer uma forma rápida e segura de acessar informações empre
 - **Node.js**
 - **Express**
 - **Dotenv**
-- **Cors**
-- **Banco de dados** (PostgreSQL, MySQL ou outro)
+- **Banco de dados** MySQL
 
 ---
 
@@ -29,6 +28,6 @@ O objetivo é oferecer uma forma rápida e segura de acessar informações empre
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/barueri-cnpj-api.git
-cd barueri-cnpj-api
+git clone https://github.com/LeoGdc/BarueriCNPJ-API
+cd BarueriCNPJ-API
 npm install
