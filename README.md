@@ -9,7 +9,7 @@ O objetivo é oferecer uma forma rápida e segura de acessar informações empre
 
 - Consulta informações completas de empresas pelo **CNPJ**.  
 - Retorna dados armazenados localmente no seu **banco de dados**.  
-- Filtra automaticamente empresas da **região de Barueri (SP)**.  
+- Filtra automaticamente empresas da **cidade de Barueri (SP)**.  
 - API REST pronta para integração com sistemas internos, dashboards ou aplicações web.
 
 ---
