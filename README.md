@@ -1,6 +1,6 @@
 # 🏙️ Barueri CNPJ API
 
-API em **Node.js** para consulta de **CNPJs da região de Barueri-SP**, utilizando dados oficiais previamente importados do **gov.br**.  
+API em **Node.js** para consulta de **CNPJs da cidade de Barueri-SP**, utilizando dados oficiais previamente importados do **gov.br**.  
 O objetivo é oferecer uma forma rápida e segura de acessar informações empresariais da região, direto do seu próprio banco de dados.
 
 ---
